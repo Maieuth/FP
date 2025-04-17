@@ -9,3 +9,8 @@ Notre site ce compose de :
 - Une page d'accueil
 - une page de contact
 - Une page de style de jeu (comprenant plusieur page de style de jeu et une liste de jeu de jeu associée à ce style)
+
+  ## Information par rapport à GIT
+
+  Pour le projet nous avons utiliser l'exentension liveshare de vscode qui permet de travailler sur les même fichiers / dossiers  
+  en même temps ce qui evite un casse tête d'organisation avec git (pour les push et pull)
