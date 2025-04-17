@@ -12,5 +12,5 @@ Notre site ce compose de :
 
   ## Information par rapport à GIT
 
-  Pour le projet nous avons utiliser l'exentension liveshare de vscode qui permet de travailler sur les même fichiers / dossiers  
-  en même temps ce qui evite un casse tête d'organisation avec git (pour les push et pull)
+  Pour le projet nous avons utiliser l'exentension liveshare de vscode qui permet de travailler sur les même fichiers / dossiers    
+  en même temps (aussi bien à distance qu'en présentiel) ce qui evite un casse tête d'organisation avec git (pour les push et pull)
