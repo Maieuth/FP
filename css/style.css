@@ -1,0 +1,207 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+header{
+    width: 100%;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 2%;
+}
+
+header img{
+    width: 4em;
+    padding: 2%;
+}
+
+#userl{
+    width: 3em;
+}
+
+nav{
+    width: 20%;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+
+#accueil{
+    width: 92%;
+    margin: 4%
+}
+
+#styles{
+    width: 92%;
+    margin: 4%
+}
+
+#contact{
+    width: 92%;
+    margin: 4%;
+}
+
+
+
+main{
+    width: 56%;
+    background-color: rgb(6, 37, 75);
+    margin: 1%;
+    padding: 1%;
+    
+
+}
+
+#mo{
+    background-color: rgb(69, 109, 202);
+}
+
+
+main p{
+    color: white;
+}
+
+#tcntct{
+    color: white;
+    text-align: center;
+}
+
+#cnctc{
+    display: flex;
+}
+
+#cnctc img{
+    width: 35%;
+}
+
+#cinqd{
+    display: grid;
+    grid-template-columns: repeat(3,50px);
+    grid-template-rows: repeat(3,50px);
+    gap: 50px;
+    width: max-content;
+    margin-left: 25%;
+
+}
+div img{
+    width: 150px;
+}
+
+.case{
+    width: 50px;
+    height: 50px;
+    background-color: transparent;
+}
+
+#tfps
+{
+    color: white;
+    text-align: center;
+    min-height: auto;
+}
+
+#sfps{
+    text-align: left;
+    margin: 2%;
+    padding: 2%;
+    background-color: lightblue;
+}
+
+section{
+    width: 92%;
+}
+
+article img{
+    width: 20%;
+    padding: 2%;
+}
+
+
+
+
+
+input[image]{
+    height: 2em;
+}
+
+
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 65%;
+}
+
+caption{
+    border: 2px solid black;
+    border-bottom: 0px;
+}
+
+tbody,td, th{
+    border: 2px solid black;
+    padding: 5px 10px;
+}
+
+
+
+
+
+.image-switch {
+    position: relative;
+    display: inline-block;
+    margin: 10px;
+  }
+  
+  .image-switch img {
+    width: 200px;
+    height: auto;
+    display: block;
+  }
+  
+  .img-switch {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    pointer-events: none;
+    border: 5px solid #0007BF;
+    box-sizing: border-box;
+  }
+  
+  .image-switch:hover .img-switch {
+    opacity: 1;
+  }
+  
+  .image-switch:hover .img-normal {
+    opacity: 0;
+  }
+
+
+
+
+
+
+aside{
+    width: 16%;
+    background-color: yellow;
+    margin: 1%;
+    padding: 1%;
+
+}
+
+footer{
+    width: 100%;
+    background-color: gray;
+    padding: 2%;
+    text-align: center;
+}
