@@ -9,7 +9,7 @@ Notre site ce compose de :
 - Une page d'accueil
 - une page de contact
 - Une page de style de jeu (comprenant plusieur page de style de jeu et une liste de jeu de jeu associée à ce style)
-
+- Identifiants ADMIN : email : admin@site.fr mdp : root
   ## Information par rapport à GIT
 
   Pour le projet nous avons utiliser l'exentension liveshare de vscode qui permet de travailler sur les même fichiers / dossiers    
